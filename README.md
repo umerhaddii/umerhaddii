@@ -1,4 +1,3 @@
-[![MasterHead](https://www.freepik.com/free-vector/illustration-data-analysis-graph_2807811.htm#fromView=search&page=1&position=17&uuid=c6803d53-89c4-40ff-8169-2196dd361b64)]
 <h1 align="center">Hi there, I'm Umer Haddii 👋</h1>
 <h3 align="center">A student of Data Science and AI</h3>
 
