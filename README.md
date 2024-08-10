@@ -72,17 +72,29 @@
             <br /> FastAPI
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original-wordmark.svg" alt="docker" width="40" height="40"/>
-            <img src="./assets/icons/docker.png" width="65px"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original.svg" alt="nltk" width="40" height="40"/>
+            <img src="./assets/icons/nltk.png" width="65px"/>
             <br /> NLTK
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original-wordmark.svg" alt="docker" width="40" height="40"/>
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> spaCy
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" alt="spacy" width="40" height="40"/>
+            <img src="./assets/icons/spacy.png" width="65px"/>
+            <br /> SpaCy
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
+            <img src="./assets/icons/streamlit.png" width="65px"/>
+            <br /> Streamlit
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+            <img src="./assets/icons/flask.png" width="65px"/>
+            <br /> Flask
+        </td>
     </tr>
 </table>
 </div>
+
 
 
 
