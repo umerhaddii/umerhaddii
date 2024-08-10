@@ -17,7 +17,8 @@
   
   - 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Master🥇.
   
-  - 🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's etc.
+  - 🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis,
+        Sequential Data Analysis, RAG, Transformers, LLM's etc.
 
   - ⚡ Fun fact: I love to play with data 📊.
 
