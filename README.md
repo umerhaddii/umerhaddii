@@ -37,7 +37,7 @@
 
    ## ⚡ Technologies I use 
 
-<<<<<<<<<<<<<<  ✨ Codeium Command 🌟 >>>>>>>>>>>>>>>>
+
 <div align="center">
 <table align="center">
     <tr>
@@ -72,14 +72,18 @@
             <br /> FastAPI
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original-wordmark.svg" alt="docker" width="40" height="40"/>
             <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> Docker
+            <br /> NLTK
         </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original-wordmark.svg" alt="docker" width="40" height="40"/>
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> spaCy
     </tr>
 </table>
 </div>
-<<<<<<<  024ccf3d-b9e6-4e4d-b37f-36da4989e99e  >>>>>>>
+
 
 
 ---
