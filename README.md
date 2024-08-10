@@ -22,3 +22,11 @@
   - ⚡ Fun fact: I love to play with data 📊.
 
 ---
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerhaddii&show_icons=true&theme=radical) | [![Umer Haddii's Stri](https://streak-stats.demolab.com?user=umerhaddii&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
