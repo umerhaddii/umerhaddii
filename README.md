@@ -9,9 +9,9 @@
 
 ----
 
-  * 🔭 I am Currently working as **Chief Data Scientist(Sr.AWS AI ML Solution Architect)** at [IBM](https://www.ibm.com/in-en)
+  * 🔭 I am Currently doing Virtual Job Simulation at BCG on Foage as **Data Scientist(Gen AI)**.
 
-  - 🌱 I’m currently Learning Natural Language Processsing Machine 📜😎.
+  - 🌱 I’m currently Learning Natural Language Processsing 📜😎.
 
   - 🗞️ I have done **Machine Learning Specialization from Stanford**.
   
