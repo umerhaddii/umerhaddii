@@ -1,5 +1,5 @@
-- ### Hi there, I'm Umer Haddii👋
-  ## Welcome to my profile.
+- ## Hi there, I'm Umer Haddii👋
+  ### Welcome to my profile.
   ![](https://komarev.com/ghpvc/?username=umerhaddii&color=green)  
   [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umerhaddii)
   [![Twitter Follow](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/UmerHaddii007)
