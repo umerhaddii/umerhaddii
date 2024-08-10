@@ -37,40 +37,49 @@
 
    ## ⚡ Technologies I use 
 
+<<<<<<<<<<<<<<  ✨ Codeium Command 🌟 >>>>>>>>>>>>>>>>
 <div align="center">
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
             <img src="./assets/icons/python.jpeg" width="65px"/>
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
             <img src="./assets/icons/jupyter.png" width="65px"/>
             <br /> Jupyter
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
             <img src="./assets/icons/tensorflow.png" width="65px"/>
             <br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
             <img src="./assets/icons/pytorch.png" width="65px"/>
             <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikitlearn" width="40" height="40"/>
             <img src="./assets/icons/scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
             <img src="./assets/icons/fastapi.png" width="65px"/>
             <br /> FastAPI
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
             <img src="./assets/icons/docker.png" width="65px"/>
             <br /> Docker
         </td>
     </tr>
 </table>
 </div>
+<<<<<<<  024ccf3d-b9e6-4e4d-b37f-36da4989e99e  >>>>>>>
 
 
 ---
