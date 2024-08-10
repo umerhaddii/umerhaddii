@@ -7,3 +7,17 @@
   ## I'm Python Data Scientist, Machine learning and NLP Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umerhaddii/)
 
 ----
+
+* 🔭 I am Currently working as **Chief Data Scientist(Sr.AWS AI ML Solution Architect)** at [IBM](https://www.ibm.com/in-en)
+
+  - 🌱 I’m currently Learning Natural Language Processsing Machine 📜😎.
+
+  - 🗞️ I have done **Machine Learning Specialization from Stanford**.
+  
+  - 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Master🥇.
+  
+  - 🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's etc.
+
+  - ⚡ Fun fact: I love to play with data 📊.
+
+---
