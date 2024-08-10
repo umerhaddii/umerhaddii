@@ -49,10 +49,6 @@
             <br /> Jupyter
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
-            <br /> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
             <img src="./assets/icons/tensorflow.png" width="65px"/>
             <br /> TensorFlow
         </td>
@@ -61,21 +57,22 @@
             <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
             <img src="./assets/icons/fastapi.png" width="65px"/>
             <br /> FastAPI
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/flask.png" width="65px"/>
-            <br /> Flask 
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/streamlit.png" width="65px"/>
-            <br /> Streamlit 
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/NLTK.png" width="65px"/>
-            <br /> NLTK 
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
         </td>
     </tr>
 </table>
 </div>
+
+
+---
+
+***Thanks for visit my profile.***
