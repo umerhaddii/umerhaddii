@@ -30,3 +30,52 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+---
+
+   ## ⚡ Technologies I use 
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <br /> FastAPI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/flask.png" width="65px"/>
+            <br /> Flask 
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/streamlit.png" width="65px"/>
+            <br /> Streamlit 
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/NLTK.png" width="65px"/>
+            <br /> NLTK 
+        </td>
+    </tr>
+</table>
+</div>
