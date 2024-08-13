@@ -60,11 +60,11 @@
             <br /> FastAPI
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original.svg" alt="nltk" width="40" height="40"/>
+            <img src="https://seeklogo.com/images/N/nltk-logo-60A11E27A2-seeklogo.com.png" alt="nltk" width="40" height="40"/>
             <br /> NLTK
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" alt="spacy" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/explosion/spacy/master/website/static/img/logo.svg" alt="spacy" width="40" height="40"/>
             <br /> SpaCy
         </td>
         <td align="center" width="140" height="112.43">
