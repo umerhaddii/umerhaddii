@@ -74,19 +74,7 @@
         <td align="center" width="140" height="112.43">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
             <br /> Flask
-          <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-            <br /> Scikit Learn
-          </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://raw.githubusercontent.com/nltk/nltk/develop/images/nltk_logo.png" alt="nltk" width="40" height="40"/>
-            <br /> NLTK
-          </td>
-        <td align="center" width="140" height="112.43">
-            <img src="https://spacy.io/images/logo.svg" alt="spacy" width="40" height="40"/>
-            <br /> SpaCy
-          </td>
-    </tr>
+        </tr>
 </table>
 </div>
 
