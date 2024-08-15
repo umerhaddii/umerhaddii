@@ -79,9 +79,9 @@
 </div>
 
 
-### Important Repository
+## Important Repository
 
-💾 Awesome Dataset - [🔗](https://github.com/umerhaddii/Awesome-Datasets)
+💾 **Awesome Dataset** - [🔗](https://github.com/umerhaddii/Awesome-Datasets)
 
 
 ---
