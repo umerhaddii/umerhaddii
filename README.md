@@ -29,16 +29,40 @@
 </div>
 </a>
 
-## Github Stats:
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerhaddii&show_icons=true&theme=radical) | [![Umer Haddii's Stri](https://streak-stats.demolab.com?user=umerhaddii&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 
+<p align="center">
+    <a href="https://github.com/tayyabadev">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayyabadev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/tayyabadev">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabadev&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
+
+
+ <p align="center">
+   <a href="https://github.com/tayyabadev"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabadev&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+<div id="header" align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabadev" alt="tayyabadev" /></a> </p>
+  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
 ## Important Repository
