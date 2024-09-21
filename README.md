@@ -10,7 +10,7 @@
 
 * 🔭 I am Currently doing Virtual Job Simulation at BCG on Foage as **Data Scientist(Gen AI)**.
 
-- 🌱 I’m currently Learning Natural Language Processsing 📜😎.
+- 🌱 I’m currently Learning and Practicing Computer Vision and Natural Language Processsing 📜😎.
 
 - 🗞️ I have done **Machine Learning Specialization from Stanford**.
 
