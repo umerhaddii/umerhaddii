@@ -41,14 +41,14 @@
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/umerhaddii">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+    <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
   </a> 
 </p>
 
 
  <p align="center">
    <a href="https://github.com/umerhaddii"> 
-     <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
    </a>  
  </p>
 
