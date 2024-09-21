@@ -31,15 +31,6 @@
 ---
 
 ## ⚡ Technologies I use 
-<table><tr><td valign="top" width="25%">
-### Languages
-<a href="https://github.com/umerhaddii">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=python,&perline=4" /> 
-</div>
-</a>
-
-
 
 <div align="center">
 <table align="center">
