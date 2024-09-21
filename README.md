@@ -22,12 +22,13 @@
 
 ---
 ## ⚡ Technologies I use 
+
 <a href="https://github.com/umerhaddii">
 <div align="left">
-       <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,fastapi&perline=10" /> 
+       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,postman,vscode&perline=10" /> 
 </div>
 </a>
-
+---
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerhaddii&show_icons=true&theme=radical) | [![Umer Haddii's Stri](https://streak-stats.demolab.com?user=umerhaddii&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
