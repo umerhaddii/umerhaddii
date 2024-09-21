@@ -21,6 +21,13 @@
 - ⚡ Fun fact: I love to play with data 📊.
 
 ---
+## ⚡ Technologies I use 
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=python,tensorflow,&perline=4" /> 
+</div>
+</a>
+
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerhaddii&show_icons=true&theme=radical) | [![Umer Haddii's Stri](https://streak-stats.demolab.com?user=umerhaddii&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
