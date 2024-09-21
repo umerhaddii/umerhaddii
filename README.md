@@ -36,12 +36,12 @@
     <tr>
         <td>
             <a href="https://github.com/umerhaddii">
-                <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umerhaddii&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+                <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umerhaddii&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
             </a>
         </td>
         <td>
             <a href="https://github.com/umerhaddii">
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
             </a>
         </td>
     </tr>
