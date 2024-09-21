@@ -36,12 +36,12 @@
     <tr>
         <td>
             <a href="https://github.com/umerhaddii">
-                <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umerhaddii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+                <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umerhaddii&show_icons=true&theme=Onedark&include_all_commits=true&count_private=true&hide_border=true"/>
             </a>
         </td>
         <td>
             <a href="https://github.com/umerhaddii">
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=Onedarka&include_all_commits=true&count_private=true&hide_border=true"/>
             </a>
         </td>
     </tr>
@@ -56,7 +56,7 @@
 
  <p align="center">
    <a href="https://github.com/umerhaddii"> 
-     <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true" /> 
+     <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
    </a>  
  </p>
 
