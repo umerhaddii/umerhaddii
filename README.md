@@ -25,7 +25,7 @@
 
 <a href="https://github.com/umerhaddii">
 <div align="left">
-       <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,git,flask,fastapi,postman,replit,vscode&perline=10" /> 
+       <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,git,flask,fastapi,postman,replit,vscode&perline=15" /> 
 </div>
 </a>
 
