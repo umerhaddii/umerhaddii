@@ -32,14 +32,20 @@
 
 ## Github Stats
 
-<p align="center" style="display: flex; justify-content: center;">
-    <a href="https://github.com/umerhaddii">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umerhaddii&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-    </a>
-    <a href="https://github.com/umerhaddii">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-    </a>
-</p>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/umerhaddii">
+                <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umerhaddii&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/umerhaddii">
+                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+            </a>
+        </td>
+    </tr>
+</table>
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/umerhaddii">
