@@ -52,16 +52,6 @@
    </a>  
  </p>
 
-<br>
-
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umerhaddii" alt="umerhaddii" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
