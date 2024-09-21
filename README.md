@@ -24,7 +24,7 @@
 ## ⚡ Technologies I use 
 <a href="https://github.com/umerhaddii">
 <div align="left">
-       <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,fastapi&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,fastapi&perline=10" /> 
 </div>
 </a>
 
