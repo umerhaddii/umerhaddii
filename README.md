@@ -41,7 +41,7 @@
         </td>
         <td>
             <a href="https://github.com/umerhaddii">
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=onedarka&include_all_commits=true&count_private=true&hide_border=true"/>
+                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=Onedarka&include_all_commits=true&count_private=true&hide_border=true"/>
             </a>
         </td>
     </tr>
