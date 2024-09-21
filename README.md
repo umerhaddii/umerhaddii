@@ -48,7 +48,7 @@
 
  <p align="center">
    <a href="https://github.com/umerhaddii"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+     <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
    </a>  
  </p>
 
