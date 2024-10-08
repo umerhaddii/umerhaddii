@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/UmerHaddii007)
 
 ## I'm Kaggle Grandmaster, Python Data Scientist, 
-Machine learning and NLP Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umerhaddii/)
+## Machine learning and NLP Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umerhaddii/)
 
 ----
 
