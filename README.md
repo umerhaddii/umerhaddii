@@ -1,5 +1,4 @@
 
-![Kaggle_Profile - Copy](https://github.com/user-attachments/assets/c1fb160b-be5f-4d9d-895b-6479e8e70178)
 ![covwe g](https://github.com/user-attachments/assets/3d596f42-34ff-405c-80b2-fb71b01a7f4e)
 
 
