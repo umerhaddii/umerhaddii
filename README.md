@@ -26,7 +26,9 @@
 - ⚡ Fun fact: I love to play with data 📊.
 
 ---
-![Youtube](https://github.com/user-attachments/assets/5c185368-9195-4fd0-bfaa-f32a0403a796)
+## YouTube Channel
+
+[![Youtube](https://github.com/user-attachments/assets/5c185368-9195-4fd0-bfaa-f32a0403a796)](www.youtube.com/@umerhaddii007?sub_confirmation=1)
 
 ---
 ## ⚡ Technologies I use 
