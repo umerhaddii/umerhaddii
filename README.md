@@ -28,7 +28,7 @@
 ---
 ## YouTube Channel
 
-![yt](https://github.com/user-attachments/assets/96946de1-e52e-4f4c-b2f6-55d57c9c6bb9)
+[![YouTube Channel](https://github.com/user-attachments/assets/96946de1-e52e-4f4c-b2f6-55d57c9c6bb9)](www.youtube.com/@umerhaddii007?sub_confirmation=1)
 
 ---
 ## ⚡ Technologies I use 
