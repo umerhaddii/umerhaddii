@@ -1,5 +1,5 @@
 
-![covwe g](https://github.com/user-attachments/assets/3d596f42-34ff-405c-80b2-fb71b01a7f4e)
+![covwe g]()
 
 
 
