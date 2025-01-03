@@ -20,11 +20,11 @@
 
 - 🗞️ I have done **Machine Learning Specialization from Stanford**.
 
-- 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Master🥇.
+- 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Grandmaster🥇.
 
-- 🥅 2024 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, Time Series Analysis, Sequential Data Analysis, RAG, Transformers, LLM's etc.
+- 🥅 2025 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, RAG, Agentic AI, Transformers, LLM's etc.
 
-- ⚡ Fun fact: I love to play with data 📊.
+- ⚡ Fun fact: I love to build products on data 📊.
 
 ---
 ## ⚡ Technologies I use 
