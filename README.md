@@ -14,7 +14,7 @@
 
 ----
 
-* 🔭 I am Currently working on Fine Tuning LLMs.
+* 🔭 I am currently working on Fine Tuning LLMs.
 
 - 🌱 I’m currently Learning and Practicing Computer Vision and Natural Language Processsing 📜😎.
 
