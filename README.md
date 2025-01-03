@@ -10,15 +10,15 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umerhaddii)
 [![Twitter Follow](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/UmerHaddii007)
 
-## I'm Python Data Scientist, Machine learning and NLP Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umerhaddii/)
+## I'm Python Data Scientist, Machine learning, NLP and LLM Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umerhaddii/)
 
 ----
 
-* 🔭 I am Currently doing Virtual Job Simulation at BCG on Foage as **Data Scientist(Gen AI)**.
+* 🔭 I am Currently working on Fine Tuning LLMs.
 
 - 🌱 I’m currently Learning and Practicing Computer Vision and Natural Language Processsing 📜😎.
 
-- 🗞️ I have done **Machine Learning Specialization from Stanford**.
+- 🗞️ I have done **Machine Learning Specialization from Stanford** and **AI in Medicine Specialization from Stanford** .
 
 - 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Grandmaster🥇.
 
