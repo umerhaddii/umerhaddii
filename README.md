@@ -16,7 +16,7 @@
 
 * 🔭 I am currently working on Fine Tuning LLMs.
 
-- ⚙️ I have successfully fine-tuned `GPT-2(124 M)` on Text classification and `gemma2-2b-en` on Urdu Ghazal's theme classification.
+- ⚙️ I have successfully fine-tuned `GPT-2(124 M)` on Text classification and `gemma2-2b-en` on Alpaca Cleaned dataset.
 
 - 🌱 I’m currently Learning and Practicing Computer Vision and Natural Language Processsing 📜😎.
 
