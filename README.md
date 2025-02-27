@@ -1,6 +1,5 @@
 
-![covwe g](https://github.com/user-attachments/assets/3f4d4772-407e-4196-bd98-7a7a4a83b9f0)
-
+![cover](https://github.com/user-attachments/assets/6176cbe7-34d9-4b31-bdc2-04f2b37582ce)
 
 
 
