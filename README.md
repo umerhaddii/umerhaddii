@@ -19,8 +19,6 @@
 [<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/umerhaddii/) &nbsp;
 [<img src='https://cdn.simpleicons.org/x/000000' alt='twitter' height='35'>](https://twitter.com/UmerHaddii007) &nbsp;
 [<img src='https://cdn.simpleicons.org/discord/5865F2' alt='discord' height='40'>]() &nbsp;
-![4373210_kaggle_logo_logos_icon](https://github.com/user-attachments/assets/ab663620-097e-495e-8155-be289161962c)
-
 [<img src='https://cdn.simpleicons.org/kaggle/20BEFF?viewbox=auto' alt='kaggle' height='30'>](https://www.kaggle.com/umerhaddii)
 
 
