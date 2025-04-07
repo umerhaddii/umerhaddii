@@ -19,8 +19,7 @@
 [<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/umerhaddii/) &nbsp;
 [<img src='https://cdn.simpleicons.org/x/000000' alt='twitter' height='35'>](https://twitter.com/UmerHaddii007) &nbsp;
 [<img src='https://cdn.simpleicons.org/discord/5865F2' alt='discord' height='40'>]() &nbsp;
-[<img src='https://cdn.simpleicons.org/kaggle/20BEFF?viewbox=auto' alt='kaggle' height='30'>](https://www.kaggle.com/umerhaddii)
-
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umerhaddii)
 
 ## About Me
 ```python
