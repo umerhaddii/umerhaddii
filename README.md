@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/a6ba54a9-fc86-481b-ab80-e7b0a2b5df22)![image](https://github.com/user-attachments/assets/607d81ee-d8ee-40d2-8870-8cd225cd248f)<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Umer%20Haddii&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Data%20Scientist%20|%20Agentic%20AI%20%20Developer%20|%20Kaggle%20Grandmaster&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
@@ -12,13 +12,13 @@
 <!---
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/umerhaddii/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/UmerHaddii007)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/ZHBzcUYCaV)
 
 -->
 
 [<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/umerhaddii/) &nbsp;
 [<img src='https://cdn.simpleicons.org/x/000000' alt='twitter' height='35'>](https://twitter.com/UmerHaddii007) &nbsp;
-[<img src='https://cdn.simpleicons.org/discord/5865F2' alt='discord' height='40'>]() &nbsp;
+[<img src='https://cdn.simpleicons.org/discord/5865F2' alt='discord' height='40'>](https://discord.gg/ZHBzcUYCaV) &nbsp;
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umerhaddii)
 
 ## About Me
