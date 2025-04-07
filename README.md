@@ -22,21 +22,13 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umerhaddii)
 
 ## About Me
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Umer Haddii"
-        self.current_work = "Agentic AI & Fine Tuning LLMs"
-        self.achievements = ["Kaggle Grandmaster 👑"]
-        self.specializations = [ "Stanford ML Specialization", "Stanford AI in Medicine"]
-    
-    def get_current_projects(self):
-        return ["Agentic AI Solutions",
-                "GPT-2(124M) Fine-tuning",
-                "gemma2-2b-en on Alpaca Dataset"]
 
-me = DataScientist()
-```
+Data Scientist and AI Developer specializing in autonomous AI systems and large language models, with recognition as a Kaggle Grandmaster and Stanford specialzations in Machine Learning and AI in Medicine.
+
+Currently focused on developing Agentic AI solutions and fine-tuning advanced language models like GPT models and Gemini models for real-world applications.
+
+Building intelligent systems that bridge the gap between cutting-edge AI technology and practical business solutions, with expertise in custom DL model development, Agentic AI systems and data processing pipelines.
+
 
 ## Tech Stack
 
