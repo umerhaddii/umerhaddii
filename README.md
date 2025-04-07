@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a6ba54a9-fc86-481b-ab80-e7b0a2b5df22)![image](https://github.com/user-attachments/assets/607d81ee-d8ee-40d2-8870-8cd225cd248f)<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Umer%20Haddii&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Data%20Scientist%20|%20Agentic%20AI%20%20Developer%20|%20Kaggle%20Grandmaster&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
