@@ -1,43 +1,67 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Umer%20Haddii&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Data%20Scientist%20|%20Agentic%20AI%20%20Developer%20|%20Kaggle%20Grandmaster&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
-![cover (1)](https://github.com/user-attachments/assets/e32a67a7-49dd-4c32-b676-bb7d7f9f9b38)
+
+<div align="center">
+    <h1>Welcome to my profile</h1>
+</div>
 
 
+### Connect with me
+<!---
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/umerhaddii/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/UmerHaddii007)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)]()
 
-## Hi there, I'm Umer Haddii👋  Kaggle Grandmaster
-### Welcome to my profile.
-![](https://komarev.com/ghpvc/?username=umerhaddii&color=green)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umerhaddii)
-[![Twitter Follow](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/UmerHaddii007)
+-->
 
-## I'm Python Data Scientist | AI & LLM Engineer [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umerhaddii/)
+[<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/umerhaddii/) &nbsp;
+[<img src='https://cdn.simpleicons.org/x/000000' alt='twitter' height='35'>](https://twitter.com/UmerHaddii007) &nbsp;
+[<img src='https://cdn.simpleicons.org/discord/5865F2' alt='discord' height='40'>]() &nbsp;
+[<img src='https://cdn.simpleicons.org/kaggle/20BEFF?viewbox=auto' alt='kaggle' height='30'>](https://www.kaggle.com/umerhaddii)
 
-----
 
-* 🔭 I am currently working on Fine Tuning LLMs.
+## About Me
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Umer Haddii"
+        self.current_work = "Agentic AI & Fine Tuning LLMs"
+        self.achievements = ["Kaggle Grandmaster 👑"]
+        self.specializations = [ "Stanford ML Specialization", "Stanford AI in Medicine"]
+    
+    def get_current_projects(self):
+        return ["Agentic AI Solutions",
+                "GPT-2(124M) Fine-tuning",
+                "gemma2-2b-en on Alpaca Dataset"]
 
-- ⚙️ I have successfully fine-tuned `GPT-2(124 M)` on Text classification and `gemma2-2b-en` on Alpaca Cleaned dataset.
+me = DataScientist()
+```
 
-- 🌱 I’m currently Learning and Practicing Computer Vision and Natural Language Processsing 📜😎.
-
-- 🗞️ I have done **Machine Learning Specialization from Stanford** and **AI in Medicine Specialization from Stanford** .
-
-- 👯 I’m contributing on Kaggle Datasets Category with rank of Kaggle Grandmaster🥇.
-
-- 🥅 2025 Goals: Explore the more and more research of NLP, Computer vision, Deep learning, RAG, Agentic AI, Transformers, LLM's etc.
-
-- ⚡ Fun fact: I love to build products on data 📊.
-
----
-## ⚡ Technologies I use 
+## Tech Stack
 
 <a href="https://github.com/umerhaddii">
 <div align="left">
-       <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,git,flask,fastapi,postman,replit,vscode&perline=15" /> 
+       <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,git,flask,fastapi,github,docker,vscode&perline=15" /> 
 </div>
 </a>
 
-
 ## Github Stats
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/umerhaddii">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
+
+
+ <p align="center">
+   <a href="https://github.com/umerhaddii"> 
+     <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
 <table>
     <tr>
@@ -53,25 +77,11 @@
         </td>
     </tr>
 </table>
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/umerhaddii">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
-</p>
-
-
- <p align="center">
-   <a href="https://github.com/umerhaddii"> 
-     <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
 
 
 ---
 
-## Kaggle Workshop 
-
+## Featured Work
 [![Alt text](https://img.youtube.com/vi/CieYQU-Dchs/maxresdefault.jpg)](https://www.youtube.com/watch?v=CieYQU-Dchs)
 
 ---
@@ -83,3 +93,9 @@
 ---
 
 ***Thanks for visiting my profile.***
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+
+
