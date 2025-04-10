@@ -10,13 +10,12 @@
 
 ### Connect with me
 <!---
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/umerhaddii/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/UmerHaddii007)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/ZHBzcUYCaV)
 
 -->
 
-[<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/umerhaddii/) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umerhaddii/) &nbsp;
 [<img src='https://cdn.simpleicons.org/x/000000' alt='twitter' height='35'>](https://twitter.com/UmerHaddii007) &nbsp;
 [<img src='https://cdn.simpleicons.org/discord/5865F2' alt='discord' height='40'>](https://discord.gg/ZHBzcUYCaV) &nbsp;
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/umerhaddii)
