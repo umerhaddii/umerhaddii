@@ -38,13 +38,7 @@ Building intelligent systems that bridge the gap between cutting-edge AI technol
 
 - [Formula 1 Race Data Fetcher](https://github.com/umerhaddii/F1RDF)
 
-## Tech Stack
-
-<a href="https://github.com/umerhaddii">
-<div align="left">
-       <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,git,flask,fastapi,github,docker,vscode&perline=15" /> 
-</div>
-</a>
+---
 
 ## Github Stats
 
@@ -70,11 +64,6 @@ Building intelligent systems that bridge the gap between cutting-edge AI technol
             </a>
         </td>
         <td>
-            <a href="https://github.com/umerhaddii">
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-            </a>
-        </td>
-    </tr>
 </table>
 
 
