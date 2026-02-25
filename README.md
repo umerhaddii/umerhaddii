@@ -63,7 +63,6 @@ Building intelligent systems that bridge the gap between cutting-edge AI technol
                 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umerhaddii&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
             </a>
         </td>
-        <td>
 </table>
 
 
