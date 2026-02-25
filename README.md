@@ -71,16 +71,6 @@ Building intelligent systems that bridge the gap between cutting-edge AI technol
 
 ---
 
-## Featured Work
-[![Alt text](https://img.youtube.com/vi/CieYQU-Dchs/maxresdefault.jpg)](https://www.youtube.com/watch?v=CieYQU-Dchs)
-
----
-## Important Repository
-
-💾 **Awesome Dataset** - [🔗](https://github.com/umerhaddii/Awesome-Datasets)
-
-
----
 
 ***Thanks for visiting my profile.***
 <div align="center">
