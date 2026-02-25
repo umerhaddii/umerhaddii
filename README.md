@@ -32,11 +32,11 @@ Building intelligent systems that bridge the gap between cutting-edge AI technol
 
 ## **My OpenSource Projects**
 
-[OpenSourceAI Product Hunt](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt)
+- [OpenSourceAI Product Hunt](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt)
 
-[Stocky](https://github.com/umerhaddii/stocky)
+- [Stocky](https://github.com/umerhaddii/stocky)
 
-[Formula 1 Race Data Fetcher](https://github.com/umerhaddii/F1RDF)
+- [Formula 1 Race Data Fetcher](https://github.com/umerhaddii/F1RDF)
 
 ## Tech Stack
 
