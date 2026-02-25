@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Umer%20Haddii&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Data%20Scientist%20|%20Agentic%20AI%20%20Developer%20|%20Kaggle%20Grandmaster&descAlignY=55&descAlign=50" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Umer%20Haddii&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Data%20Scientist%20|%20Agentic%20AI%20%20Developer%20|%20Kaggle%20Grandmaster&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 
 <div align="center">
-    <h1>Welcome to my profile</h1>
+        <h1>Welcome to my profile</h1>
 </div>
 
 
@@ -44,35 +44,22 @@ Building intelligent systems that bridge the gap between cutting-edge AI technol
 
 <!-- Activity Graph -->
 <p align="center">
-  <a href="https://github.com/umerhaddii">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
+    <a href="https://github.com/umerhaddii">
+        <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+    </a> 
 </p>
 
 
  <p align="center">
-   <a href="https://github.com/umerhaddii"> 
-     <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
+     <a href="https://github.com/umerhaddii"> 
+         <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+     </a>  
  </p>
-
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/umerhaddii">
-                <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umerhaddii&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-            </a>
-        </td>
-</table>
-
 
 ---
 
 
 ***Thanks for visiting my profile.***
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-
-
-
