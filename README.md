@@ -28,6 +28,11 @@ Currently focused on developing Agentic AI solutions and fine-tuning advanced la
 
 Building intelligent systems that bridge the gap between cutting-edge AI technology and practical business solutions, with expertise in custom DL model development, Agentic AI systems and data processing pipelines.
 
+## My OpenSource Projects
+
+[OpenSourceAI Product Hunt](https://github.com/fmerian/awesome-product-hunt/tree/main)
+[Stocky]()
+[F1]()
 
 ## Tech Stack
 
