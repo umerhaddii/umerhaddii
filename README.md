@@ -29,6 +29,16 @@ Building intelligent systems that bridge the gap between cutting-edge AI technol
 
 ---
 
+## **Work**
+
+- Built GPT-2 124M from scratch
+
+- Fine-tune GPT-2
+
+- Fine-tune Gemma2-2b
+
+- Fine-tune Coqui-Xtts on Serbian Lanaguage
+
 ## Github Stats
 
 <!-- Activity Graph -->
