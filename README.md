@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=101113&height=190&section=header&text=UMER%20HADDI.&fontSize=53&fontColor=F2C94C&fontAlignY=42&desc=Curious%20mind.%20Builder%20at%20heart.&descAlignY=69&descSize=19&descColor=F2F1ED" alt="Umer Haddi" />
+<img src="./assets/hero.svg" alt="Umer Haddi — Curious mind. Builder at heart." width="100%" />
 
-### AI Engineer · System Designer · Researcher
+<br/>
 
-**Building intelligent systems and turning research into practical reality.**
+**AI Engineer · System Designer · Researcher**
+
+Building intelligent systems and turning research into practical reality.
 
 <br/>
 
@@ -18,17 +20,17 @@
 
 ## ✦ About Me
 
-Hey, I'm **Umer** 
+Hey, I'm **Umer**.
 
 I'm an AI engineer, system designer, and researcher focused on building useful, intelligent systems.
 
 My work sits at the intersection of **AI, System Design, Research, and Cloud Engineering**. I enjoy understanding how things work, improving them, and turning ideas into products that matter.
 
 I'm especially interested in:
-- building with **LLMs and Agentic AI**
-- designing **scalable systems**
-- exploring **research-driven engineering**
-- moving toward **founding meaningful products**
+- Building with **LLMs and Agentic AI**
+- Designing **scalable systems**
+- Exploring **research-driven engineering**
+- Moving toward **founding meaningful products**
 
 ---
 
@@ -59,7 +61,6 @@ I'm especially interested in:
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -107,7 +108,6 @@ A public software project exploring practical product development.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -143,4 +143,16 @@ These projects helped me understand models beyond APIs — from fundamentals to 
 
 ---
 
+## ✦ Let's Connect
 
+I enjoy meeting people who are curious about **AI, research, systems, and building useful products**. If you're exploring an idea or working on something meaningful, I'd be glad to connect.
+
+<div align="center">
+
+[![Explore My GitHub](https://img.shields.io/badge/Explore_My_GitHub-101113?style=for-the-badge&logo=github&logoColor=F2C94C&labelColor=F2C94C)](https://github.com/umerhaddii)
+
+<br/><br/>
+
+<img src="./assets/footer.svg" alt="Always learning. Always building." width="100%" />
+
+</div>
