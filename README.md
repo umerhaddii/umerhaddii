@@ -18,7 +18,7 @@
 
 ## ✦ A Little About Me
 
-Hey, I'm **Umer** 👋
+Hey, I'm **Umer** 
 
 I'm an AI engineer, system designer, and researcher focused on building useful, intelligent systems.
 
@@ -86,7 +86,7 @@ I'm especially interested in:
 
 ---
 
-## ✦ Selected Work
+## ✦ Selected Public Work
 
 <table>
 <tr>
