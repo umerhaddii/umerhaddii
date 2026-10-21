@@ -143,27 +143,4 @@ These projects helped me understand models beyond APIs — from fundamentals to 
 
 ---
 
-## ✦ How I Think
 
-> **Understand deeply. Design thoughtfully. Build with purpose.**
-
-- **Understand the fundamentals** — strong systems are built on clear understanding.
-- **Think in systems** — models matter, but architecture and reliability matter too.
-- **Build things that help** — technology is most valuable when it solves real problems.
-
----
-
-## ✦ Where I'm Heading
-
-I'm working toward combining **AI, research, systems thinking, and product building** into something of my own.
-
-```text
-LEARN DEEPLY
-     ↓
-RESEARCH & EXPLORE
-     ↓
-DESIGN & ENGINEER
-     ↓
-BUILD REAL PRODUCTS
-     ↓
-FOUND SOMETHING MEANINGFUL
