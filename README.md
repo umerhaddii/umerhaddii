@@ -1,64 +1,253 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Umer%20Haddii&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Data%20Scientist%20|%20Agentic%20AI%20%20Developer%20|%20Kaggle%20Grandmaster&descAlignY=55&descAlign=50" width="100%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=101113&height=190&section=header&text=UMER%20HADDI.&fontSize=53&fontColor=F2C94C&fontAlignY=42&desc=Curious%20mind.%20Builder%20at%20heart.&descAlignY=69&descSize=19&descColor=F2F1ED" alt="Umer Haddi — Curious mind. Builder at heart." />
+
+### AI Engineer · System Designer · Researcher
+
+**Building intelligent systems, exploring ideas, and turning research into reality.**
+
+<br/>
+
+![Kaggle Grandmaster](https://img.shields.io/badge/Kaggle-Grandmaster-F2C94C?style=flat-square&labelColor=101113)
+![Open Source](https://img.shields.io/badge/Open-Source-F2C94C?style=flat-square&labelColor=101113)
+![Future Founder](https://img.shields.io/badge/Future-Founder-F2C94C?style=flat-square&labelColor=101113)
+
 </div>
 
+<br/>
+
+## ✦ A Little About Me
+
+Hey, I'm **Umer Haddii** 
+
+I'm an AI engineer, data scientist, and researcher who enjoys understanding how things work — and figuring out how to make them work better.
+
+My work sits at the intersection of **Artificial Intelligence, System Design, Research, and Cloud Engineering**.
+
+I love experimenting with models, designing scalable architectures, exploring research ideas, and building systems that solve real-world problems.
+
+I believe great engineering isn't just about writing code or using the latest technology. It's about understanding a problem deeply enough to build something that genuinely helps.
+
+Beyond engineering, I'm working toward my next chapter: **building products of my own and becoming a founder.**
+
+<br/>
+
+## ✦ What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Artificial Intelligence
+
+Building, adapting, and understanding intelligent models and autonomous systems.
+
+- Agentic AI & Multi-Agent Systems
+- Large Language Models (LLMs)
+- Open-Source Model Development
+- Model Training & Fine-Tuning
+- Deep Learning
+- AI Application Development
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ System Design
+
+Designing reliable systems that turn complex ideas into working products.
+
+- Software & System Architecture
+- Distributed Systems
+- API Design & Integrations
+- Data Pipelines
+- Scalable Backend Architecture
+- AI System Orchestration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Research
+
+Exploring new approaches through experimentation, evaluation, and practical implementation.
+
+- Applied AI & ML Research
+- Experimental Design
+- AI Benchmark Development
+- Model Evaluation
+- Data Science
+- Research-to-Production Workflows
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Cloud Engineering
+
+Connecting software, infrastructure, and machine learning to build deployable AI systems.
+
+- Cloud Architecture
+- AI Model Deployment
+- Containerization
+- Cloud Infrastructure
+- Compute Workflows
+- Backend & AI Services
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ Things I've Built & Explored
+
+A selection of my open-source projects, experiments, and model development work.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [OpenSource AI](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt)
+
+An open-source project focused on AI product discovery and exploration.
+
+**Focus:** Open Source · AI Ecosystem
+
+</td>
+<td width="50%" valign="top">
+
+### [Stocky](https://github.com/umerhaddii/stocky)
+
+One of my publicly available software development projects.
+
+**Focus:** Software Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [F1 Race Data Fetcher](https://github.com/umerhaddii/F1RDF)
+
+Tools for fetching and working with Formula 1 racing data.
+
+**Focus:** Python · Data Engineering
+
+</td>
+<td width="50%" valign="top">
+
+### Language Model Engineering
+
+Hands-on work with language model implementation, training, and fine-tuning.
+
+**Focus:** Deep Learning · Model Development
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ Model Development Journey
+
+I've explored language models from foundational implementation to adapting existing open-source models.
+
+| Project | Focus |
+|:---|:---|
+| **GPT-2 124M** | Built from scratch |
+| **GPT-2** | Model fine-tuning |
+| **Gemma 2 2B** | Open-source LLM fine-tuning |
+| **Coqui XTTS** | Serbian language adaptation and fine-tuning |
+
+These experiences helped me better understand what happens inside models — beyond simply calling an API.
+
+<br/>
+
+## ✦ My Engineering Philosophy
+
+> **Understand deeply. Design thoughtfully. Build with purpose.**
+
+Three principles guide the way I approach technology:
+
+**01 — Understand the fundamentals**
+
+I believe that understanding what's happening beneath the surface helps us build better solutions.
+
+**02 — Think in systems**
+
+A great model is only one part of a great product. Architecture, reliability, integration, and user experience matter just as much.
+
+**03 — Build things that matter**
+
+Research and engineering become most meaningful when they turn into something people can actually use.
+
+<br/>
+
+## ✦ Where I'm Heading
+
+I'm on a journey from learning and engineering toward building something of my own.
+
+```text
+              LEARN DEEPLY
+                   │
+                   ▼
+             RESEARCH & EXPLORE
+                   │
+                   ▼
+             DESIGN & ENGINEER
+                   │
+                   ▼
+            BUILD REAL PRODUCTS
+                   │
+                   ▼
+             FOUND SOMETHING
+                MEANINGFUL
+```
+
+My long-term goal is to combine **AI research, strong engineering, and entrepreneurship** to create products with real-world impact.
+
+I'm still learning, experimenting, and improving along the way — and that's the part I enjoy most.
+
+<br/>
+
+## ✦ GitHub Activity
 
 <div align="center">
-        <h1>Welcome to my profile</h1>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=umerhaddii&show_icons=true&hide_border=true&bg_color=101113&title_color=F2C94C&text_color=F2F1ED&icon_color=F2C94C&ring_color=F2C94C" alt="Umer's GitHub Statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerhaddii&layout=compact&hide_border=true&bg_color=101113&title_color=F2C94C&text_color=F2F1ED" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=101113&color=F2F1ED&line=F2C94C&point=F2C94C&area=true&area_color=6A571C&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity" />
+
 </div>
 
+<br/>
 
+## ✦ Let's Connect
 
-## About Me
+I enjoy connecting with people who are passionate about:
 
-Data Scientist and AI Developer specializing in autonomous AI systems and large language models, with recognition as a Kaggle Grandmaster and Stanford specialzations in Machine Learning and AI in Medicine.
+**AI Research · Open Source · System Architecture · Building Products · Entrepreneurship**
 
-Currently focused on developing Agentic AI solutions and fine-tuning advanced language models like GPT models and Gemini models for real-world applications.
+Whether you're working on something interesting, exploring a research idea, or building an ambitious product, I'm always interested in thoughtful conversations.
 
-Building intelligent systems that bridge the gap between cutting-edge AI technology and practical business solutions, with expertise in custom DL model development, Agentic AI systems and data processing pipelines.
-
-----
-
-## **My OpenSource Projects**
-
-- [OpenSourceAI Product Hunt](https://github.com/umerhaddii/OpenSource-AI-Product-Hunt)
-
-- [Stocky](https://github.com/umerhaddii/stocky)
-
-- [Formula 1 Race Data Fetcher](https://github.com/umerhaddii/F1RDF)
-
----
-
-## **Work**
-
-- Built GPT-2 124M from scratch
-
-- Fine-tune GPT-2
-
-- Fine-tune Gemma2-2b
-
-- Fine-tune Coqui-Xtts on Serbian Lanaguage
-
-## Github Stats
-
-<!-- Activity Graph -->
-<p align="center">
-    <a href="https://github.com/umerhaddii">
-        <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=umerhaddii&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-    </a> 
-</p>
-
-
- <p align="center">
-     <a href="https://github.com/umerhaddii"> 
-         <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhaddii&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-     </a>  
- </p>
-
----
-
-
-***Thanks for visiting my profile.***
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-F2C94C?style=for-the-badge&logo=github&logoColor=F2C94C&labelColor=101113)](https://github.com/umerhaddii)
+
+<br/><br/>
+
+### Always learning. Always building.
+
+*Curiosity drives the research. Engineering brings it to life.*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101113,100:2A2517&height=90&section=footer" alt="Footer" />
+
 </div>
