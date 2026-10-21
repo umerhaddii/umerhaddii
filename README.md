@@ -148,8 +148,6 @@ I enjoy meeting people who are curious about **AI, research, systems, and buildi
 
 <div align="center">
 
-[![Explore My GitHub](https://img.shields.io/badge/Explore_My_GitHub-101113?style=for-the-badge&logo=github&logoColor=F2C94C&labelColor=F2C94C)](https://github.com/umerhaddii)
-
 <br/><br/>
 
 <img src="./assets/footer.svg" alt="Always learning. Always building." width="100%" />
