@@ -16,7 +16,7 @@
 
 ---
 
-## ✦ A Little About Me
+## ✦ About Me
 
 Hey, I'm **Umer** 
 
