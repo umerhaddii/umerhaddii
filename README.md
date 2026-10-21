@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Umer Haddi — Curious mind. Builder at heart." width="100%" />
+<img src="./assets/hero.svg" alt="Umer  Haddi — Curious mind. Builder at heart." width="100%" />
 
 <br/>
 
-**AI Engineer · System Designer · Researcher**
 
 Building intelligent systems and turning research into practical reality.
 
